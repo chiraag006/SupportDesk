@@ -1,1 +1,1 @@
-A Direction-Sensitive People Counter using Computer Vision and DL Algorithms from OpenCV, dlib and MobileNetSSD.Some of the techniques used in this project are Object-tracking, Object Detection and Centroid-tracking among many others
+A web application to keep track of user requests and deal with other customer related issues
